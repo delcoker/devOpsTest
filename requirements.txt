@@ -1,0 +1,2 @@
+pyfunctional~=1.4.3
+canopy-sdk==0.6.0
